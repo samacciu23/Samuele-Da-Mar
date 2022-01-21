@@ -9,3 +9,6 @@ A little bit about me:
 🐍Python is my favourite programming language as it's the first one I learned.
 🚩I'd love to build something, like an app, that could improve people's everyday life!
 
+Contact me on my [LinkedIn](https://www.linkedin.com/in/samuele-da-mar/). 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=samacciu23).
