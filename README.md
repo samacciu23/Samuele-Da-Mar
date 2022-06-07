@@ -1,4 +1,4 @@
-# Hello everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+# Hello everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
 My name is Samuele Da Mar and I'm an aspiring Software Engineer.
 
 A little bit about me:<br>
